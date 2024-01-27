@@ -5,11 +5,13 @@ h1{
 	padding:10px
 }
 #songs{
+	border:2px solid black;
 	text-decoration:none;
 	list-style-type:none;
-	margin:10px;
-	border-color:black;
-
+    margin:20px;
+	font-weight:400;
+	padding:20px;
+	background-color:white;
 }
 h3{
 	text-align:center;
@@ -17,6 +19,11 @@ h3{
 div{
 	background-color: rgb(204, 204, 204);
 }
-video{
-	background-color:red;
+#controls{
+	background-position:center;
+	border:20px solid white;
+	margin-left:50px;
+	margin-right:50px;
+
+	
 }
